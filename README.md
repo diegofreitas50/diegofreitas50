@@ -3,6 +3,8 @@
 Estou estudando desenvolvimento Full Stack na Blue Edtech. 👨🏻‍💻
 
 
+
+
 ##
 ### • Linguagens e tecnologias que estou dominando.
 <div style="display: inline_block"><br>
@@ -17,5 +19,6 @@ Estou estudando desenvolvimento Full Stack na Blue Edtech. 👨🏻‍💻
 <div>
   <a href="https://instagram.com/diegofreitas50" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/> 	
   <a href="https://www.linkedin.com/in/diegofreitas50" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/> 
+  <a href="https://wa.me/qr/SQFMJM55FYI2N1" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>
 </div>
 
