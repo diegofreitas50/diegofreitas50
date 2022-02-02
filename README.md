@@ -2,10 +2,14 @@
 
 Estou estudando desenvolvimento Full Stack na Blue Edtech. 👨🏻‍💻
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegofreitas50&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegofreitas50&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img style = display: "inline block" align = "left" width = "420" src= "https://github-readme-stats.vercel.app/api?username=diegofreitas50&show_icons=true&theme=dark"> 
+  <img style = align = "left" width = "350" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=diegofreitas50&theme=dark">
+<p/>
 
 ##
+  
+
 ### • Linguagens e tecnologias que estou dominando.
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego_JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
