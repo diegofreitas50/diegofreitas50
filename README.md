@@ -1,6 +1,6 @@
 ##  Olá, sejam bem vindos! 
 
-Estou estudando desenvolvimento Full Stack na Blue Edtech. 👨🏻‍💻
+Sou desenvolvedor BackEnd Jr. 👨🏻‍💻
 
 <p>
   <img style = display: "inline block" align = "left" width = "420" src= "https://github-readme-stats.vercel.app/api?username=diegofreitas50&show_icons=true&theme=dark"> 
