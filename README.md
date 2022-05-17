@@ -1,10 +1,21 @@
 ##  Olá, sejam bem vindos! 
 
-Sou desenvolvedor BackEnd Jr. 👨🏻‍💻
+### Sou desenvolvedor BackEnd Jr. 👨🏻‍💻
+
+- NodeJs
+- Express
+- NestJS
+- JavaScript
+- TypeScript
+- API - REST
+- PostgreSQL
+- MongoDB - Mongoose
+- JWT 
 
 <p>
-  <img style = display: "inline block" align = "left" width = "420" src= "https://github-readme-stats.vercel.app/api?username=diegofreitas50&show_icons=true&theme=dark"> 
-  <img style = align = "left" width = "350" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=diegofreitas50&theme=dark">
+  <img style = align = "left" width = "300" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=diegofreitas50&theme=dark">
+  <img style = display: "inline block"  width = "420" src= "https://github-readme-stats.vercel.app/api?username=diegofreitas50&show_icons=true&theme=dark"> 
+  
 <p/>
 
 ##
@@ -13,8 +24,15 @@ Sou desenvolvedor BackEnd Jr. 👨🏻‍💻
 ### • Linguagens e tecnologias que estou dominando.
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego_JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Diego_TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="Diego_NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Diego_VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />   
+  <img align="center" alt="Diego_VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
+  <img align="center" alt="Diego_npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />  
+  <img align="center" alt="Diego_pgsql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img align="center" alt="Diego_mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  
+          
+          
 </div>
 
 ##
