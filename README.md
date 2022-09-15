@@ -2,6 +2,7 @@
 
 ### Sou desenvolvedor BackEnd Jr. 👨🏻‍💻
 
+<div align="center">
 - NodeJs
 - Express
 - NestJS
@@ -13,6 +14,9 @@
 - MongoDB 
 - Mongoose
 - JWT 
+</div>
+
+##
 
 <div align="center">
   <a href="https://github.com/diegofreitas50">
