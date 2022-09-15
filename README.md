@@ -8,8 +8,10 @@
 - JavaScript
 - TypeScript
 - API - REST
-- PostgreSQL
-- MongoDB - Mongoose
+- PostgreSQL 
+- Prisma
+- MongoDB 
+- Mongoose
 - JWT 
 
 <p>
